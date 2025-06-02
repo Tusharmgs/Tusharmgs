@@ -55,10 +55,10 @@ I'm eager to grow through real-world experience, collaboration, and continuous l
 
 ## 💡 Currently Learning
 
-- 🔹 Advanced **C++** and STL
+- 🔹 Advanced **C/C++** and **STL**
 - 🔹 **Data Structures and Algorithms**
-- 🔹 Full Stack Development (MERN Stack)
-- 🔹 Version Control with Git
+- 🔹 Full Stack Development **(MERN Stack)**
+- 🔹 Version Control with **Git**
 
 ---
 
